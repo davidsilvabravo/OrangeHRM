@@ -34,8 +34,6 @@ Framework: .NET + NUnit + Selenium WebDriver.
 7. Delete employee
 
 
-## Part 2: Test Automation
-
 ### Tech stack
 Language: **C#**  
 Framework: **NUnit**  
