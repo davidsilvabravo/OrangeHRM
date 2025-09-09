@@ -6,7 +6,7 @@ https://opensource-demo.orangehrmlive.com/
 
 ### Scope and objectives
 **Scope:**  
-Authentication: login.
+Authentication: login.  
 PIM module: employee creation and deletion.  
 Admin module: user creation and deletion.  
 
